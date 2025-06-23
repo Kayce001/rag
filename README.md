@@ -1,0 +1,1 @@
+使用qwen3的embed和rerank模型做rag任务。
