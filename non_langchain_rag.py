@@ -6,6 +6,8 @@
 适用于已预处理的TXT文档
 """
 
+#hey
+
 import os
 import pickle
 import json
@@ -605,3 +607,4 @@ def demo():
 
 if __name__ == "__main__":
     demo()
+
