@@ -5,7 +5,7 @@
 去除LangChain依赖，使用纯Python实现
 适用于已预处理的TXT文档
 """
-#nice
+
 import os
 import pickle
 import json
@@ -605,4 +605,3 @@ def demo():
 
 if __name__ == "__main__":
     demo()
-
