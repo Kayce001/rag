@@ -6,7 +6,7 @@
 适用于已预处理的TXT文档
 """
 
-#hey
+#hey,你好
 
 import os
 import pickle
@@ -607,4 +607,5 @@ def demo():
 
 if __name__ == "__main__":
     demo()
+
 
